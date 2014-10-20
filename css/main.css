@@ -22,8 +22,7 @@ main {
 header {
 	
 	background-color: #FA5A0F;
-	border-bottom: 5PX;
-	border-bottom-color: #EA4A00;
+	border-bottom: 5px solid #EA4A00;
 	color: #FFFFFF;
 	padding: 1em;
 }
